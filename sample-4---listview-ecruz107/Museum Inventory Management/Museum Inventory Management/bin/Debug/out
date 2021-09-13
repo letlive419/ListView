@@ -1,0 +1,116 @@
+ArtID,Artist,Title,Date Acquired,Category,Condition,Location,Appraised Value
+21,Aserty,Bead Wall,09/10/2007,Installation,Excellent,Courtyard,$14,000
+34,Aserty,Beaver Pole Jumble,01/10/2010,Installation,Excellent,South Pavilion,$28,000
+63,Aserty,Asleep in the Garden,08/10/2012,Installation,Excellent,Garden,$110,000
+91,Carpenter,Off the Grid,09/07/2007,Installation,Excellent,Garden,$8,000
+95,Lerman,Life Is Sweet,01/16/2010,Installation,Excellent,South Pavilion,$25,000
+83,Roman,Untitled,09/17/2008,Installation,Good,Courtyard,$2,500
+1,Mogan,Red Rock Mountain,03/19/2008,Painting,Excellent,East Pavilion,$18,000
+2,Novarre,Offerings ,10/16/2008,Painting,Excellent,East Pavilion,$10,000
+5,DiGrigoro,The Hang,07/16/2007,Painting,Excellent,East Pavilion,$8,000
+13,Aserty,Superstitions,03/10/2012,Painting,Excellent,Courtyard,$78,000
+15,McIver,Punch,01/19/2008,Painting,Excellent,East Pavilion,$10,000
+16,Schenck,Untitled,01/07/2009,Painting,Excellent,East Pavilion,$6,000
+19,Reed,The White Heart,01/14/2008,Painting,Excellent,East Pavilion,$9,300
+28,Mogan,Tired Cowboy,01/16/2008,Painting,Excellent,East Pavilion,$4,700
+29,Hofmann,Horseshoe Falls,08/16/2007,Painting,Excellent,East Pavilion,$15,000
+31,Ingraham,Inside/Out,12/16/2007,Painting,Excellent,East Pavilion,$3,500
+39,Cox,Treachery,08/11/2007,Painting,Excellent,West Pavilion,$20,000
+41,Hamend,Night Version,01/16/2007,Painting,Excellent,East Pavilion,$3,800
+44,Lutes,Mexican Fiesta,08/16/2007,Painting,Excellent,East Pavilion,$14,000
+51,Kerrihard,Night Version,01/16/2007,Painting,Excellent,East Pavilion,$7,000
+53,Bindner,Blue Eyed Indian,01/10/2012,Painting,Excellent,Courtyard,$40,000
+55,Budd,Starlit Evening,01/10/2007,Painting,Excellent,East Pavilion,$9,500
+59,Dawson,Dwelling,03/16/2007,Painting,Excellent,East Pavilion,$16,000
+61,Wittner,Untitled Mural,01/07/2012,Painting,Excellent,East Pavilion,$3,520
+62,Lowney,Cowboy and Saddle,05/16/2007,Painting,Excellent,East Pavilion,$18,000
+64,Motherwell,Spirit Columns,12/16/2008,Painting,Excellent,East Pavilion,$7,000
+66,Waid,Untitled (still life),04/13/2011,Painting,Excellent,Courtyard,$19,500
+67,Miller,Owl in Flight,05/16/2008,Painting,Excellent,East Pavilion,$7,000
+69,Mogan,Renaissance,08/15/2008,Painting,Excellent,East Pavilion,$5,500
+72,Garin,Funnel,05/18/2007,Painting,Excellent,East Pavilion,$4,500
+79,Rissman,Carrying the Mail,04/03/2008,Painting,Excellent,East Pavilion,$8,000
+80,Quiroz,The Dust Behind,08/16/2008,Painting,Excellent,East Pavilion,$18,000
+82,Hamend,Spring Flowers,07/16/2008,Painting,Excellent,South Pavilion,$20,000
+85,Rogers,Traces,11/03/2008,Painting,Excellent,South Pavilion,$20,000
+86,Scholder,Untitled (desert landscape),08/12/2009,Painting,Excellent,East Pavilion,$18,000
+87,Yasami,Three Woman,05/07/2012,Painting,Excellent,South Pavilion,$20,000
+88,Kollasch,Lessons,04/16/2007,Painting,Excellent,East Pavilion,$3,700
+92,Ortega,Stone Palette,09/21/2008,Painting,Excellent,East Pavilion,$11,500
+94,Rissman,Antelopes ,07/03/2008,Painting,Excellent,East Pavilion,$12,500
+96,Reed,The Spirit,11/16/2008,Painting,Excellent,South Pavilion,$20,000
+97,Cardenas,Ceremonial Sticks,07/23/2007,Painting,Excellent,East Pavilion,$15,000
+102,Prinzen,The Red Door,05/16/2008,Painting,Excellent,East Pavilion,$10,000
+103,Cox,Crying Hats,07/11/2007,Painting,Excellent,East Pavilion,$10,000
+104,Acconci,Trail End,09/10/2006,Painting,Excellent,East Pavilion,$8,000
+106,Xie,Meteor Show,08/12/2012,Painting,Excellent,East Pavilion,$10,000
+107,Long,Horse Corral,02/16/2007,Painting,Excellent,East Pavilion,$12,500
+110,Fratt,Friends,10/18/2007,Painting,Excellent,East Pavilion,$16,000
+111,Rissman,Three Sisters,08/03/2008,Painting,Excellent,East Pavilion,$6,500
+113,Gonzales,Dark Canyon,03/16/2007,Painting,Excellent,East Pavilion,$7,500
+115,Mogan,Storytelling at the Campfire,01/19/2008,Painting,Excellent,East Pavilion,$18,000
+12,Udinotti,Man on Horseback,02/10/2010,Painting,Good,East Pavilion,$8,000
+26,Scherzel,Untitled (couple),05/08/2009,Painting,Good,East Pavilion,$4,000
+42,Ames,Coffee on the Trail,08/09/2006,Painting,Good,East Pavilion,$7,544
+54,Mogan,Snake Charmer,01/16/2008,Painting,Good,East Pavilion,$4,500
+74,Parker,Storm on the Rise,08/23/2008,Painting,Good,East Pavilion,$8,000
+89,Odiezma,Life Lessons,02/16/2008,Painting,Good,East Pavilion,$4,125
+90,Capplin,Trappers,04/18/2004,Painting,Good,East Pavilion,$6,000
+114,Mogan,Shadow House,01/05/2008,Painting,Good,East Pavilion,$5,500
+57,Scherzel,Untitled,07/07/2009,Painting,Fair,East Pavilion,$4,500
+68,Mogan,Moonlight,01/09/2008,Painting,Fair,East Pavilion,$9,750
+75,Bindner,Western Boots and Spurs,01/10/2007,Painting,Fair,East Pavilion,$6,000
+52,Curtis,American Rodeo,05/15/2007,Painting,Poor,East Pavilion,$3,500
+77,Bindner,Bull Riding,09/10/2007,Painting,Poor,East Pavilion,$5,200
+3,Chico,Spring Flowers,07/20/2007,Sculpture,Excellent,East Pavilion,$2,400
+4,Roman,Seeking Shelter,08/08/2008,Sculpture,Excellent,Courtyard,$52,000
+8,Gilhooly,End of the Path,09/16/2007,Sculpture,Excellent,East Pavilion,$1,900
+9,Guys,Amen,07/13/2006,Sculpture,Excellent,East Pavilion,$3,000
+10,Swartz,Untitled (land with adobe),11/08/2010,Sculpture,Excellent,East Pavilion,$800
+11,Dill,Eve,01/16/2007,Sculpture,Excellent,East Pavilion,$975
+14,McGraw,Plenty,01/19/2008,Sculpture,Excellent,West Pavilion,$500
+17,Bindner,Brittlecone,08/10/2007,Sculpture,Excellent,East Pavilion,$1,300
+18,Blum,Mountain Scene,10/10/2007,Sculpture,Excellent,East Pavilion,$2,500
+22,Shenal,The Cowboy,05/10/2010,Sculpture,Excellent,East Pavilion,$4,200
+23,Meglech,Shooting the Rapids,11/03/2007,Sculpture,Excellent,East Pavilion,$1,300
+25,Senior,Profile of a Woman,08/11/2009,Sculpture,Excellent,West Pavilion,$625
+32,Lundquist,Rising Sun,01/16/2007,Sculpture,Excellent,East Pavilion,$2,000
+33,Werner,Untitled (Woman abstract),08/13/2011,Sculpture,Excellent,East Pavilion,$2,500
+35,Meglech,Nature/Nurture,07/16/2007,Sculpture,Excellent,East Pavilion,$1,300
+36,Battenberg,Blackhawk,05/10/2007,Sculpture,Excellent,East Pavilion,$25,500
+40,Meglech,Night on the Prairie,08/03/2007,Sculpture,Excellent,East Pavilion,$1,300
+43,Guys,Creosote Bushes,08/10/2007,Sculpture,Excellent,East Pavilion,$18,000
+45,Kritz,Leaf Patterns,08/16/2007,Sculpture,Excellent,East Pavilion,$2,100
+48,Pierobon,Comfy Chair,04/16/2008,Sculpture,Excellent,East Pavilion,$800
+49,Blain,Buttercup with Red Lip,08/10/2007,Sculpture,Excellent,Garden,$400
+56,Bindner,Cavalry Is Coming,07/10/2007,Sculpture,Excellent,East Pavilion,$1,900
+58,Rath,The Gathering,08/16/2008,Sculpture,Excellent,West Pavilion,$250
+60,Lundquist,Story Sticks,08/16/2007,Sculpture,Excellent,West Pavilion,$650
+65,Meglech,Moonlite,05/16/2007,Sculpture,Excellent,East Pavilion,$1,300
+78,Guys,Chuckwagon,07/11/2006,Sculpture,Excellent,East Pavilion,$32,000
+84,Garber,Crossing the Platt River,07/18/2007,Sculpture,Excellent,East Pavilion,$2,200
+93,Meglech,Dressing Up,08/03/2007,Sculpture,Excellent,East Pavilion,$1,300
+98,Van Coller,Untitled (Sea),07/08/2011,Sculpture,Excellent,East Pavilion,$2,800
+99,Penn,Sweet Project,08/16/2008,Sculpture,Excellent,West Pavilion,$592
+101,Kritz,Hungry Cowboys,05/16/2007,Sculpture,Excellent,East Pavilion,$750
+108,Irvin,Striking It Rich,07/16/2007,Sculpture,Excellent,East Pavilion,$1,750
+109,Werner,Untitled Mural,09/07/2012,Sculpture,Excellent,Garden,$400
+6,Ibe,House Remembered,08/16/2007,Sculpture,Good,East Pavilion,$700
+30,Guys,Ash Bench,08/10/2007,Sculpture,Good,East Pavilion,$13,000
+38,Acconci,Spring Flowers,09/10/2006,Sculpture,Good,East Pavilion,$800
+46,Indiana,Immediate Gratification,07/16/2007,Sculpture,Good,East Pavilion,$1,500
+71,Wright,Ride the Rapids,05/15/2012,Sculpture,Good,Garden,$300
+24,Metz,Spirit and Nature,07/16/2008,Sculpture,Fair,West Pavilion,$592
+37,Fleming,Floating World,05/18/2007,Sculpture,Fair,East Pavilion,$2,350
+73,Cridler,Dancing in the Light,01/15/2007,Sculpture,Fair,East Pavilion,$1,000
+76,Wright,Ride the Bronco,10/15/2012,Sculpture,Poor,East Pavilion,$1,500
+81,Colvin,Coming Under Fire,12/17/2007,Sculpture,Poor,West Pavilion,$650
+105,Statom,Untitled ,08/14/2010,Sculpture,Poor,East Pavilion,$1,800
+7,Zischke,Homage to the Ancestors,12/17/2007,Textile,Excellent,East Pavilion,$1,200
+20,Turrell,Untitled (Man holding coat),03/13/2010,Textile,Excellent,East Pavilion,$3,000
+112,Tidwell,Untitled (man and crucifix),05/13/2010,Textile,Excellent,East Pavilion,$3,200
+27,Meglech,Mountain Climber,08/16/2007,Textile,Good,East Pavilion,$4,700
+47,Maglich,Medicine Man,01/16/2007,Textile,Good,East Pavilion,$2,500
+50,Acconci,Cattle Ranch,05/19/2007,Textile,Good,East Pavilion,$10,000
+100,Edwards,Watch That Rattler,07/17/2007,Textile,Good,East Pavilion,$900
+70,Baron,Beginnings,07/10/2013,Textile,Fair,East Pavilion,$27,500

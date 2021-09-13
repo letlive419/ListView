@@ -1,0 +1,116 @@
+ArtID,Artist,Title,Date Acquired,Category,Condition,Location,Appraised Value
+21,Aserty,Bead Wall,09/10/2007,Installation,Excellent,Courtyard,14000
+34,Aserty,Beaver Pole Jumble,01/10/2010,Installation,Excellent,South Pavilion,28000
+63,Aserty,Asleep in the Garden,08/10/2012,Installation,Excellent,Garden,110000
+91,Carpenter,Off the Grid,09/07/2007,Installation,Excellent,Garden,8000
+95,Lerman,Life Is Sweet,01/16/2010,Installation,Excellent,South Pavilion,25000
+83,Roman,Untitled,09/17/2008,Installation,Good,Courtyard,2500
+1,Mogan,Red Rock Mountain,03/19/2008,Painting,Excellent,East Pavilion,18000
+2,Novarre,Offerings ,10/16/2008,Painting,Excellent,East Pavilion,10000
+5,DiGrigoro,The Hang,07/16/2007,Painting,Excellent,East Pavilion,8000
+13,Aserty,Superstitions,03/10/2012,Painting,Excellent,Courtyard,78000
+15,McIver,Punch,01/19/2008,Painting,Excellent,East Pavilion,10000
+16,Schenck,Untitled,01/07/2009,Painting,Excellent,East Pavilion,6000
+19,Reed,The White Heart,01/14/2008,Painting,Excellent,East Pavilion,9300
+28,Mogan,Tired Cowboy,01/16/2008,Painting,Excellent,East Pavilion,4700
+29,Hofmann,Horseshoe Falls,08/16/2007,Painting,Excellent,East Pavilion,15000
+31,Ingraham,Inside/Out,12/16/2007,Painting,Excellent,East Pavilion,3500
+39,Cox,Treachery,08/11/2007,Painting,Excellent,West Pavilion,20000
+41,Hamend,Night Version,01/16/2007,Painting,Excellent,East Pavilion,3800
+44,Lutes,Mexican Fiesta,08/16/2007,Painting,Excellent,East Pavilion,14000
+51,Kerrihard,Night Version,01/16/2007,Painting,Excellent,East Pavilion,7000
+53,Bindner,Blue Eyed Indian,01/10/2012,Painting,Excellent,Courtyard,40000
+55,Budd,Starlit Evening,01/10/2007,Painting,Excellent,East Pavilion,9500
+59,Dawson,Dwelling,03/16/2007,Painting,Excellent,East Pavilion,16000
+61,Wittner,Untitled Mural,01/07/2012,Painting,Excellent,East Pavilion,3520
+62,Lowney,Cowboy and Saddle,05/16/2007,Painting,Excellent,East Pavilion,18000
+64,Motherwell,Spirit Columns,12/16/2008,Painting,Excellent,East Pavilion,7000
+66,Waid,Untitled (still life),04/13/2011,Painting,Excellent,Courtyard,19500
+67,Miller,Owl in Flight,05/16/2008,Painting,Excellent,East Pavilion,7000
+69,Mogan,Renaissance,08/15/2008,Painting,Excellent,East Pavilion,5500
+72,Garin,Funnel,05/18/2007,Painting,Excellent,East Pavilion,4500
+79,Rissman,Carrying the Mail,04/03/2008,Painting,Excellent,East Pavilion,8000
+80,Quiroz,The Dust Behind,08/16/2008,Painting,Excellent,East Pavilion,18000
+82,Hamend,Spring Flowers,07/16/2008,Painting,Excellent,South Pavilion,20000
+85,Rogers,Traces,11/03/2008,Painting,Excellent,South Pavilion,20000
+86,Scholder,Untitled (desert landscape),08/12/2009,Painting,Excellent,East Pavilion,18000
+87,Yasami,Three Woman,05/07/2012,Painting,Excellent,South Pavilion,20000
+88,Kollasch,Lessons,04/16/2007,Painting,Excellent,East Pavilion,3700
+92,Ortega,Stone Palette,09/21/2008,Painting,Excellent,East Pavilion,11500
+94,Rissman,Antelopes ,07/03/2008,Painting,Excellent,East Pavilion,12500
+96,Reed,The Spirit,11/16/2008,Painting,Excellent,South Pavilion,20000
+97,Cardenas,Ceremonial Sticks,07/23/2007,Painting,Excellent,East Pavilion,15000
+102,Prinzen,The Red Door,05/16/2008,Painting,Excellent,East Pavilion,10000
+103,Cox,Crying Hats,07/11/2007,Painting,Excellent,East Pavilion,10000
+104,Acconci,Trail End,09/10/2006,Painting,Excellent,East Pavilion,8000
+106,Xie,Meteor Show,08/12/2012,Painting,Excellent,East Pavilion,10000
+107,Long,Horse Corral,02/16/2007,Painting,Excellent,East Pavilion,12500
+110,Fratt,Friends,10/18/2007,Painting,Excellent,East Pavilion,16000
+111,Rissman,Three Sisters,08/03/2008,Painting,Excellent,East Pavilion,6500
+113,Gonzales,Dark Canyon,03/16/2007,Painting,Excellent,East Pavilion,7500
+115,Mogan,Storytelling at the Campfire,01/19/2008,Painting,Excellent,East Pavilion,18000
+12,Udinotti,Man on Horseback,02/10/2010,Painting,Good,East Pavilion,8000
+26,Scherzel,Untitled (couple),05/08/2009,Painting,Good,East Pavilion,4000
+42,Ames,Coffee on the Trail,08/09/2006,Painting,Good,East Pavilion,7544
+54,Mogan,Snake Charmer,01/16/2008,Painting,Good,East Pavilion,4500
+74,Parker,Storm on the Rise,08/23/2008,Painting,Good,East Pavilion,8000
+89,Odiezma,Life Lessons,02/16/2008,Painting,Good,East Pavilion,4125
+90,Capplin,Trappers,04/18/2004,Painting,Good,East Pavilion,6000
+114,Mogan,Shadow House,01/05/2008,Painting,Good,East Pavilion,5500
+57,Scherzel,Untitled,07/07/2009,Painting,Fair,East Pavilion,4500
+68,Mogan,Moonlight,01/09/2008,Painting,Fair,East Pavilion,9750
+75,Bindner,Western Boots and Spurs,01/10/2007,Painting,Fair,East Pavilion,6000
+52,Curtis,American Rodeo,05/15/2007,Painting,Poor,East Pavilion,3500
+77,Bindner,Bull Riding,09/10/2007,Painting,Poor,East Pavilion,5200
+3,Chico,Spring Flowers,07/20/2007,Sculpture,Excellent,East Pavilion,2400
+4,Roman,Seeking Shelter,08/08/2008,Sculpture,Excellent,Courtyard,52000
+8,Gilhooly,End of the Path,09/16/2007,Sculpture,Excellent,East Pavilion,1900
+9,Guys,Amen,07/13/2006,Sculpture,Excellent,East Pavilion,3000
+10,Swartz,Untitled (land with adobe),11/08/2010,Sculpture,Excellent,East Pavilion,800
+11,Dill,Eve,01/16/2007,Sculpture,Excellent,East Pavilion,975
+14,McGraw,Plenty,01/19/2008,Sculpture,Excellent,West Pavilion,500
+17,Bindner,Brittlecone,08/10/2007,Sculpture,Excellent,East Pavilion,1300
+18,Blum,Mountain Scene,10/10/2007,Sculpture,Excellent,East Pavilion,2500
+22,Shenal,The Cowboy,05/10/2010,Sculpture,Excellent,East Pavilion,4200
+23,Meglech,Shooting the Rapids,11/03/2007,Sculpture,Excellent,East Pavilion,1300
+25,Senior,Profile of a Woman,08/11/2009,Sculpture,Excellent,West Pavilion,625
+32,Lundquist,Rising Sun,01/16/2007,Sculpture,Excellent,East Pavilion,2000
+33,Werner,Untitled (Woman abstract),08/13/2011,Sculpture,Excellent,East Pavilion,2500
+35,Meglech,Nature/Nurture,07/16/2007,Sculpture,Excellent,East Pavilion,1300
+36,Battenberg,Blackhawk,05/10/2007,Sculpture,Excellent,East Pavilion,25500
+40,Meglech,Night on the Prairie,08/03/2007,Sculpture,Excellent,East Pavilion,1300
+43,Guys,Creosote Bushes,08/10/2007,Sculpture,Excellent,East Pavilion,18000
+45,Kritz,Leaf Patterns,08/16/2007,Sculpture,Excellent,East Pavilion,2100
+48,Pierobon,Comfy Chair,04/16/2008,Sculpture,Excellent,East Pavilion,800
+49,Blain,Buttercup with Red Lip,08/10/2007,Sculpture,Excellent,Garden,400
+56,Bindner,Cavalry Is Coming,07/10/2007,Sculpture,Excellent,East Pavilion,1900
+58,Rath,The Gathering,08/16/2008,Sculpture,Excellent,West Pavilion,250
+60,Lundquist,Story Sticks,08/16/2007,Sculpture,Excellent,West Pavilion,650
+65,Meglech,Moonlite,05/16/2007,Sculpture,Excellent,East Pavilion,1300
+78,Guys,Chuckwagon,07/11/2006,Sculpture,Excellent,East Pavilion,32000
+84,Garber,Crossing the Platt River,07/18/2007,Sculpture,Excellent,East Pavilion,2200
+93,Meglech,Dressing Up,08/03/2007,Sculpture,Excellent,East Pavilion,1300
+98,Van Coller,Untitled (Sea),07/08/2011,Sculpture,Excellent,East Pavilion,2800
+99,Penn,Sweet Project,08/16/2008,Sculpture,Excellent,West Pavilion,592
+101,Kritz,Hungry Cowboys,05/16/2007,Sculpture,Excellent,East Pavilion,750
+108,Irvin,Striking It Rich,07/16/2007,Sculpture,Excellent,East Pavilion,1750
+109,Werner,Untitled Mural,09/07/2012,Sculpture,Excellent,Garden,400
+6,Ibe,House Remembered,08/16/2007,Sculpture,Good,East Pavilion,700
+30,Guys,Ash Bench,08/10/2007,Sculpture,Good,East Pavilion,13000
+38,Acconci,Spring Flowers,09/10/2006,Sculpture,Good,East Pavilion,800
+46,Indiana,Immediate Gratification,07/16/2007,Sculpture,Good,East Pavilion,1500
+71,Wright,Ride the Rapids,05/15/2012,Sculpture,Good,Garden,300
+24,Metz,Spirit and Nature,07/16/2008,Sculpture,Fair,West Pavilion,592
+37,Fleming,Floating World,05/18/2007,Sculpture,Fair,East Pavilion,2350
+73,Cridler,Dancing in the Light,01/15/2007,Sculpture,Fair,East Pavilion,1000
+76,Wright,Ride the Bronco,10/15/2012,Sculpture,Poor,East Pavilion,1500
+81,Colvin,Coming Under Fire,12/17/2007,Sculpture,Poor,West Pavilion,650
+105,Statom,Untitled ,08/14/2010,Sculpture,Poor,East Pavilion,1800
+7,Zischke,Homage to the Ancestors,12/17/2007,Textile,Excellent,East Pavilion,1200
+20,Turrell,Untitled (Man holding coat),03/13/2010,Textile,Excellent,East Pavilion,3000
+112,Tidwell,Untitled (man and crucifix),05/13/2010,Textile,Excellent,East Pavilion,3200
+27,Meglech,Mountain Climber,08/16/2007,Textile,Good,East Pavilion,4700
+47,Maglich,Medicine Man,01/16/2007,Textile,Good,East Pavilion,2500
+50,Acconci,Cattle Ranch,05/19/2007,Textile,Good,East Pavilion,10000
+100,Edwards,Watch That Rattler,07/17/2007,Textile,Good,East Pavilion,900
+70,Baron,Beginnings,07/10/2013,Textile,Fair,East Pavilion,27500

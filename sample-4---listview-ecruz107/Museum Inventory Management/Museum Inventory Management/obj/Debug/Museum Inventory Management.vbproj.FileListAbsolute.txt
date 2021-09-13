@@ -1,0 +1,13 @@
+C:\Users\Elvis\Documents\VSFIUNEW\sample-4---listview-ecruz107\Museum Inventory Management\Museum Inventory Management\bin\Debug\Museum Inventory Management.exe.config
+C:\Users\Elvis\Documents\VSFIUNEW\sample-4---listview-ecruz107\Museum Inventory Management\Museum Inventory Management\bin\Debug\Museum Inventory Management.exe
+C:\Users\Elvis\Documents\VSFIUNEW\sample-4---listview-ecruz107\Museum Inventory Management\Museum Inventory Management\bin\Debug\Museum Inventory Management.pdb
+C:\Users\Elvis\Documents\VSFIUNEW\sample-4---listview-ecruz107\Museum Inventory Management\Museum Inventory Management\bin\Debug\Museum Inventory Management.xml
+C:\Users\Elvis\Documents\VSFIUNEW\sample-4---listview-ecruz107\Museum Inventory Management\Museum Inventory Management\obj\Debug\Museum Inventory Management.vbprojAssemblyReference.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-4---listview-ecruz107\Museum Inventory Management\Museum Inventory Management\obj\Debug\Museum_Inventory_Management.frmListView.resources
+C:\Users\Elvis\Documents\VSFIUNEW\sample-4---listview-ecruz107\Museum Inventory Management\Museum Inventory Management\obj\Debug\Museum_Inventory_Management.frmStats.resources
+C:\Users\Elvis\Documents\VSFIUNEW\sample-4---listview-ecruz107\Museum Inventory Management\Museum Inventory Management\obj\Debug\Museum_Inventory_Management.Resources.resources
+C:\Users\Elvis\Documents\VSFIUNEW\sample-4---listview-ecruz107\Museum Inventory Management\Museum Inventory Management\obj\Debug\Museum Inventory Management.vbproj.GenerateResource.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-4---listview-ecruz107\Museum Inventory Management\Museum Inventory Management\obj\Debug\Museum Inventory Management.vbproj.CoreCompileInputs.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-4---listview-ecruz107\Museum Inventory Management\Museum Inventory Management\obj\Debug\Museum Inventory Management.exe
+C:\Users\Elvis\Documents\VSFIUNEW\sample-4---listview-ecruz107\Museum Inventory Management\Museum Inventory Management\obj\Debug\Museum Inventory Management.xml
+C:\Users\Elvis\Documents\VSFIUNEW\sample-4---listview-ecruz107\Museum Inventory Management\Museum Inventory Management\obj\Debug\Museum Inventory Management.pdb
